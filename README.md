@@ -8,6 +8,6 @@ Features
 - User-friendly interface
 
 Technologies Used
-  HTML: For structuring the web pages
-  CSS: For styling and layout
-  JavaScript: For dynamic interactions and data handling
+- HTML: For structuring the web pages
+- CSS: For styling and layout
+- JavaScript: For dynamic interactions and data handling
